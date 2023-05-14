@@ -1,0 +1,26 @@
+{
+  "name": "npm-react-setup",
+  "version": "1.0.0",
+  "description": "An Easy Way for Beginners to Learn React",
+  "main": "script.sh",
+  "scripts": {
+    "postinstall": "bash script.sh",
+    "remove": "bash uninstall.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/suhailroushan13/npm-react-setup.git"
+  },
+  "keywords": [
+    "react-setup",
+    "beginner-friendly",
+    "easy",
+    "npm"
+  ],
+  "author": "Suhail Roushan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhailroushan13/npm-react-setup/issues"
+  },
+  "homepage": "https://github.com/suhailroushan13/npm-react-setup#readme"
+}
