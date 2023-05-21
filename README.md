@@ -13,7 +13,7 @@ react-setup
 
 ## Screenshots
 
-![Screenshot](https://i.imgur.com/mKzxDA0.png)
+![Screenshot](https://i.imgur.com/nO0hIE4.png)
 
 
 ![Screenshot](https://i.imgur.com/L4lfBJo.png)
